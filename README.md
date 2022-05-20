@@ -1,6 +1,6 @@
 # CmsAttackProgram
 <h1>软件介绍</h1>
-CmsAttackProgram 是一款图形化专门针对cms的漏洞利用工具。用户只需要收集url导入即可进行自动化测试cms。cms正在不断加入中。。。
+CmsAttackProgram 是一款图形化专门针对cms的漏洞利用工具。用户只需要收集url导入即可进行自动化测试cms。cms正在不断加入中。。。只集成sql注入和getshell的漏洞其他漏洞忽略
 <h1>软件更新日志</h1>
 <ul>
    <li>2021-12-09 加入更新功能</li>
